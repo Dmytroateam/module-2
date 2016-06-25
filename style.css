@@ -1,0 +1,18 @@
+.fio{
+	    text-align: center; 
+		font-weight: bold; 
+		font-size:20px;
+}
+.img{
+	text-align: center;
+	}
+.main{
+	margin: 2px 2px 2px 500px;  
+}
+hr {
+    border: none; 
+    background-color: black; 
+    height: 2px;
+    width: 470px; 
+    margin: 2px 2px 2px 0px; 
+   }
