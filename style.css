@@ -1,0 +1,30 @@
+
+body {
+ background-color: #c0c0c0;
+}
+
+.all {
+	border:2px solid grey; 
+    width:500px; 
+    height:600px; 
+    margin:0 auto;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+ background-color: white;
+
+ }
+
+
+.fio{
+	    text-align: center; 
+		font-weight: bold; 
+		font-size:20px;
+}
+.img{
+	text-align: center;
+	}
+.main{
+	margin: 2px 2px 2px 20px;  
+}
+.hr {
+    border-top: 1px solid #000;
+   }
